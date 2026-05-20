@@ -1,4 +1,10 @@
-## Hi there 👋
+## Oi, eu sou a Yasmin!
+
+**Sobre mim**
+Sou estudante de Ciência de Dados e Ciência & Tecnologia pela UFABC (Universidade Federal do ABC), onde desenvolvo uma base sólida em análise de dados e resolução de problemas complexos, utilizando o fator interdisciplinar do curso como um meio para desenvolver habilidades complementares como comunicação, trabalho em equipe e desenvolvimento de projetos.
+
+Atualmente, tenho desenvolvido minhas competências em Python para análise de dados, modelagem em SQL e arquitetura de nuvem (AWS). Tenho experiência prática em ambientes corporativos utilizando SAP e ferramentas corporativas, o que me trouxe uma boa compreensão do funcionamento de processos e importância de dados confiáveis para uma boa análise.
+
 
 <!--
 **sanchezyasmin/sanchezyasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
