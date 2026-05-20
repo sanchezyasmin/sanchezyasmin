@@ -1,24 +1,24 @@
 # Oi, eu sou a Yasmin!
 
-**💜 Sobre mim**
+### **💜 Sobre mim**
 
 Sou estudante de Ciência de Dados e Ciência & Tecnologia pela UFABC (Universidade Federal do ABC), onde desenvolvo uma base sólida em análise de dados e resolução de problemas complexos, utilizando o fator interdisciplinar do curso como um meio para desenvolver habilidades complementares como comunicação, trabalho em equipe e desenvolvimento de projetos.
 
 Tenho experiência prática em ambientes corporativos utilizando SAP e ferramentas corporativas, o que me trouxe uma boa compreensão do funcionamento de processos e importância de dados confiáveis para uma boa análise.
 
 
-**💜 Tecnologias e ferramentas**
+### **💜 Tecnologias e ferramentas**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-**💡 O que estou aprendendo no momento?**
+### **💡 O que estou aprendendo no momento?**
 
-Atualmente estou me aprofundando em SQL, Python e iniciando meus estudos em AWS e estatística para ciência de dados.
+Atualmente estou me aprofundando em **SQL**, **Python** e iniciando meus estudos em **AWS** e **estatística** para ciência de dados.
 
-**💜 Contato**
+### **💜 Contato**
 
 📩 **Email**: yasmin.sanchez170803@gmail.com
 
