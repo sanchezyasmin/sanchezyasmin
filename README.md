@@ -2,7 +2,7 @@
 
 ### **💜 Sobre mim**
 
-Sou estudante de Ciência de Dados e Ciência & Tecnologia pela UFABC (Universidade Federal do ABC), onde desenvolvo uma base sólida em análise de dados e resolução de problemas complexos, utilizando o fator interdisciplinar do curso como um meio para desenvolver habilidades complementares como comunicação, trabalho em equipe e desenvolvimento de projetos.
+Sou estudante de Ciência de Dados e Ciência & Tecnologia pela UFABC (Universidade Federal do ABC), onde estou desenvolvendo minhas competências em análise de dados e resolução de problemas complexos, utilizando o fator interdisciplinar do curso como um meio para desenvolver habilidades complementares como comunicação, trabalho em equipe e desenvolvimento de projetos.
 
 Tenho experiência prática em ambientes corporativos utilizando SAP e ferramentas corporativas, o que me trouxe uma boa compreensão do funcionamento de processos e importância de dados confiáveis para uma boa análise.
 
