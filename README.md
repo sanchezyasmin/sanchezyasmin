@@ -6,6 +6,12 @@ Sou estudante de Ciência de Dados e Ciência & Tecnologia pela UFABC (Universid
 
 Tenho experiência prática em ambientes corporativos utilizando SAP e ferramentas corporativas, o que me trouxe uma boa compreensão do funcionamento de processos e importância de dados confiáveis para uma boa análise.
 
+### **💜 Badges**
+
+<a href="https://www.credly.com/users/sanchezyasmin/badges">
+  <img src="https://credly-readme-stats.onrender.com/api/carousel?username=sanchezyasmin&hide_border=true&hide_title=true&custom_title=Badges&badge_size=80&show_issuer=true" alt="Badges" />
+</a>
+
 
 ### **💜 Tecnologias e ferramentas**
 
